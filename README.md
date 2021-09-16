@@ -18,27 +18,27 @@ I am fascinated in solving problems and accepting new challenges. I am also look
 [![CSS3](https://img.shields.io/badge/-CSS3-0088CC?logo=css3&logoColor=white&style=flat&link=https://github.com/claes-work)](https://github.com/claes-work)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat&link=https://github.com/claes-work)](https://github.com/claes-work)\
 **Frameworks:**  
-[![React](https://img.shields.io/badge/-React.js-0088CC?logo=react&logoColor=white&style=flat&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)\
+[![React](https://img.shields.io/badge/-React.js-0088CC?logo=react&logoColor=white&style=flat&link=https://reactjs.org/)](https://reactjs.org/)
+[![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat&link=https://vuejs.org/)](https://vuejs.org/)
+[![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://jquery.com/)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)\
 **Server side languages:**  
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)\
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)\
 **Collaboration:**  
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=&link=https://github.com/claes-work)](https://github.com/claes-work)\
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+[![Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=&link=https://www.microsoft.com/de-de/microsoft-teams/group-chat-software)](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software)\
 **Database:**  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)\
-**Content-Management-System:**  
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![TYPO3](https://img.shields.io/badge/-TYPO3-FF8700?style=flat&logo=typo3&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)\
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://www.mysql.com/en/)](https://www.mysql.com/en/)\
+**Content-Management-Systems:**  
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white&link=https://wordpress.com/en/)](https://wordpress.com/en/)
+[![TYPO3](https://img.shields.io/badge/-TYPO3-FF8700?style=flat&logo=typo3&logoColor=white&link=https://typo3.org/)](https://typo3.org/)\
 **Design:**  
-[![XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
-[![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
+[![XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white&link=https://www.adobe.com/de/products/xd.html)](https://www.adobe.com/de/products/xd.html)
+[![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white&link=https://www.adobe.com/de/products/photoshop/landpb.html)](https://www.adobe.com/de/products/photoshop/landpb.html)
+[![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white&link=https://www.adobe.com/de/products/illustrator.html)](https://www.adobe.com/de/products/illustrator.html)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
