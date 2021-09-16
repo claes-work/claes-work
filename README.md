@@ -45,7 +45,7 @@ I am fascinated in solving problems and accepting new challenges. I am also look
 
 <p>
 <a href="https://github.com/claes-work">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claes-work&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claes-work&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claes-work&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claes-work&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
