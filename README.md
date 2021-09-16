@@ -39,3 +39,13 @@ I am fascinated in solving problems and accepting new challenges. I am also look
 [![XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
 [![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
 [![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white&link=https://github.com/claes-work)](https://github.com/claes-work)
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p>
+<a href="https://github.com/claes-work">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claes-work&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claes-work&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
