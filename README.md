@@ -1,7 +1,8 @@
 <h1>Hello There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 Hi, I'm Sebastian, a passionated fullstack developer from germany 🇩🇪\
-I am fascinated in solving problems and accepting new challenges. I am also looking for opportunities to work in reputed innovative companies.
+I am fascinated in solving problems and accepting new challenges. I am also looking for opportunities to work in reputed innovative companies.\
+Visit my [LinkedIn](https://www.linkedin.com/in/sebastian-claes-a85a92220/) profile for more detailed information about my professional career.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -19,8 +20,7 @@ I am fascinated in solving problems and accepting new challenges. I am also look
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat&link=https://github.com/claes-work)](https://github.com/claes-work)\
 **Frameworks:**  
 [![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat&link=https://vuejs.org/)](https://vuejs.org/)
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://jquery.com/)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)\
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://jquery.com/)](https://jquery.com/)\
 **Server side languages:**  
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)\
@@ -37,7 +37,7 @@ I am fascinated in solving problems and accepting new challenges. I am also look
 [![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white&link=https://www.adobe.com/de/products/photoshop/landpb.html)](https://www.adobe.com/de/products/photoshop/landpb.html)
 [![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white&link=https://www.adobe.com/de/products/illustrator.html)](https://www.adobe.com/de/products/illustrator.html)
 
-
+<!--[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)\-->
 <!---[![React](https://img.shields.io/badge/-React.js-0088CC?logo=react&logoColor=white&style=flat&link=https://reactjs.org/)](https://reactjs.org/)-->
 <!---[![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)-->
 <!---[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)-->
