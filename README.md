@@ -11,7 +11,7 @@ Visit my [LinkedIn](https://www.linkedin.com/in/sebastian-claes-a85a92220/) prof
 🌱 &nbsp;I'm on track for learning more about Vue.js\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and equity research. If you're intrested in stock market check out my [Getquin Portfolio](https://app.getquin.com/u/sebastianC).\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me on sebastian.claes@protonmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can reach me on s.claes.work@gmail.com! I'll try to respond as soon as I can.
 <!---📄 &nbsp;Please have a look at my [Résumé](https://www.google.com) for more details about me. I'm open to feedback and suggestions!--->
 
 ## 🛠 &nbsp;Tech Stack
