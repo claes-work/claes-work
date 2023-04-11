@@ -16,14 +16,14 @@ _____________
 This App simplifies the process of asset rebalancing. With our app, you can easily and comprehensively map your assets. An automated restoration of your asset allocation based on a self-selected strategy is planned.
 
 - [GitHub Repository](https://github.com/Asset-Rebalancing-Tool/AssetRebalancingTool)
-- [Web Application Link](https://portfolio-rebalancer.com/)
+- [Web Application](https://portfolio-rebalancer.com/)
 
 ### Suggest App
 
 Find people with a nearly identical music taste and discover the favorite songs of your soulmates that you haven't heard yet.
 
 - [GitHub Repository](https://github.com/Suggest-App/SuggestApp)
-- [Web Application Link](https://suggest-app.com/)
+- [Web Application](https://suggest-app.com/)
 
 _____________
 
